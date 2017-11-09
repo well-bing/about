@@ -1,3 +1,8 @@
+# Well-Bing 
+Convinient, Connected and Simple
+
+## Redefining Healthcare Valuechain
+
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/well-bing/pages/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
